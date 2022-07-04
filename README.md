@@ -1,7 +1,7 @@
 # Desafio-de-Projeto-DIO
 Criação do primeiro repositório como desafio de projeto DIO.
 ## Receita de bolo de chocolate
-####1 xícara de chá de leite
+1 xícara de chá de leite
 2 colheres de sopa de café instantâneo
 4 ovos
 1 xícara de chá de manteiga
